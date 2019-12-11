@@ -27,7 +27,7 @@
   "bugs": "https://github.com/Trakkasure/mikronode/issues",
   "devDependencies": {
     "babel": "^6.5.2",
-    "babel-eslint": "^6.1.2",
+    "babel-eslint": "^9.0.0",
     "babel-loader": "^6.2.4",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-decorators-legacy": "^1.3.4",
